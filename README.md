@@ -9,3 +9,9 @@
  This is a First Person Template Project with Grabber Component integrated into BP_FirstPersonCharacter 
  
  This implementation works with physics system
+ 
+ 
+ Created with Unreal Engine 5.0.3 version
+ 
+ https://www.linkedin.com/in/andresdonabedian/
+ 
